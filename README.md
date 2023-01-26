@@ -1,2 +1,2 @@
 # HexGL-
-I GAME
+A GAME
